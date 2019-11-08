@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ivy Gate</string>
+    <string name="hello">Hello World!</string>
+    <string name="start_vpn">Connect</string>
+    <string name="stop_vpn">Disconnect</string>
+    <string name="vpn_on">Vpn Started</string>
+</resources>
